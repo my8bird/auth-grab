@@ -1,0 +1,72 @@
+/* Effective stylesheet produced by snapshot save */
+.countdown { text-align: left; }
+.cntSeparator { font-size: 40px; margin: 0px 5px; }
+.countdown-time { margin: 5px 0px; padding-left: 20px; }
+.countdown-desc { padding-left: 25px; }
+.countdown-desc-label { display: inline-block; font-size: 9px; margin-left: 23px; text-align: center; width: 61px; }
+.countdown-desc-label:first-child { margin-left: 0px; }
+.csc-full-column { color: rgb(102, 102, 102); width: auto; }
+.primaryMsg { border-bottom: 1px solid rgb(204, 204, 204); margin-bottom: 20px; padding-bottom: 20px; }
+.primaryMsg-content-desc { border-right: 1px solid rgb(204, 204, 204); display: inline-block; margin-right: 20px; padding-right: 20px; }
+.primaryMsg-content-img { margin-left: 20px; width: 220px; text-align: center; }
+.primaryMsg-content-img, .primaryMsg-content-copy, .primaryMsg-content-deal { display: inline-block; vertical-align: top; }
+.primaryMsg-content-copy { max-width: 357px; margin-left: 40px; }
+.primaryMsg-content-copy h1 a { color: rgb(102, 102, 102); font-size: 22px; }
+.primaryMsg-header { line-height: normal; }
+.primaryMsg-subheader { font-size: 16px; font-weight: 800; padding: 10px 0px; }
+.primaryMsg-content-copy-text { font-size: 12px; line-height: 1.25; margin: 10px 0px; max-width: 450px; }
+.primaryMsg-content-deal { font-size: 12px; max-width: 275px; }
+.primaryMsg-content-deal ul { list-style: none outside none; }
+.price-area { margin-bottom: 15px; }
+.price-area-shipping { margin-bottom: 20px; }
+.price-area-sale { margin-bottom: 15px; }
+.price-area-item { font-size: 12px; line-height: 1.25; margin-bottom: 2px; }
+.deal-today { color: rgb(51, 51, 51); font-size: 16px; font-weight: 900; margin: 10px 0px; }
+.deal-today-price { color: rgb(191, 23, 23); font-size: 16px; }
+.deal-rewardPoints { background: url("urn:not-loaded:http://images.bestbuy.com/BestBuy_US/en_US/images/abn/brnd/logo/rz_dod_bullet.gif") no-repeat scroll left center transparent; margin-top: 10px; padding: 5px 5px 5px 25px; }
+.subMsg-container { border-top: 1px solid rgb(204, 204, 204); display: inline-block; font-size: 14px; margin-top: 20px; padding-top: 20px; vertical-align: top; }
+.subMsg { border-left: 1px solid rgb(204, 204, 204); border-top: medium none; display: inline-block; margin: 0px 0px 0px 10px; min-height: 105px; padding: 0px 0px 0px 15px; vertical-align: top; }
+.subMsg:first-child { border-left: medium none; margin-left: 0px; padding-left: 0px; }
+.subMsg-image, .subMsg-text { display: inline-block; text-align: left; vertical-align: top; }
+.subMsg-text { margin-left: 10px; max-width: 224px; }
+.subMsg-text.last { max-width: 270px; }
+.subMsg-text strong { color: rgb(73, 73, 74); font-weight: bold; }
+.subMsg-text h4 { line-height: 1.25; }
+#signup { background: url("urn:not-loaded:http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2011/global/dod/images/abtest/dodLogoBanner.gif") no-repeat scroll left center transparent; border: 1px solid rgb(255, 255, 255); height: 133px; margin-bottom: 20px; text-align: left; width: 958px; }
+.signup-content { background-color: rgb(227, 230, 227); border-bottom: 1px solid rgb(189, 191, 191); height: 101px; margin-left: 175px; margin-top: 11px; padding-top: 10px; }
+.signup-countdown { width: 300px; }
+.signup-countdown, .signup-text { display: inline-block; vertical-align: top; }
+.signup-text { border-left: 1px solid rgb(255, 255, 255); margin-left: 75px; padding-left: 75px; }
+.countdown-title { font-family: Arial; font-size: 15px; font-weight: bold; line-height: 16px; text-decoration: none; padding-left: 20px; color: rgb(73, 73, 74); }
+.f22_title { font-family: Arial; font-size: 18px; font-weight: bold; line-height: 20px; text-decoration: none; color: rgb(73, 73, 74); }
+#dod_top_grey { position: relative; width: 960px; height: 9px; background: none repeat scroll 0% 0% rgb(255, 241, 0); }
+#dod_top { position: relative; width: 960px; height: 238px; background: url("dod_top_63833.jpg") no-repeat scroll 0% 0% transparent; }
+#dod_email { position: absolute; top: 0px; left: 610px; }
+#signup_title { position: absolute; top: 11px; left: 245px; }
+#dod_countdown { position: absolute; top: 99px; left: 670px; }
+.dod_deal { width: 640px; border-bottom: 1px solid rgb(195, 196, 196); padding: 20px 0px; }
+.md_deal { width: 960px ! important; }
+.d_last { border: medium none ! important; }
+.dod_img { position: relative; float: left; width: 170px; }
+.md_img { width: 360px ! important; }
+.dod_text { position: relative; float: left; width: 310px; margin-right: 20px; }
+.dod_pb { position: relative; float: left; width: 140px; }
+.dod_text h4 { font-family: Arial; font-size: 18px ! important; font-weight: bold ! important; color: rgb(115, 116, 116) ! important; padding-bottom: 5px ! important; }
+.dod_text h4 a, .dod_text h4 a:visited { color: rgb(115, 116, 116); }
+.dod_desc { font-family: Arial; font-size: 15px ! important; color: rgb(115, 116, 116) ! important; }
+.rz_img { position: relative; float: left; }
+.rz_text { position: relative; float: left; top: 1px ! important; left: 5px ! important; }
+.rz_text p { font-size: 11px ! important; }
+.dod_to { font-family: Arial; font-size: 14px ! important; line-height: 16px ! important; font-weight: bold ! important; text-transform: uppercase ! important; color: rgb(187, 6, 40) ! important; margin-bottom: 5px ! important; }
+.dod_price { font-family: Arial; font-size: 36px ! important; font-weight: bold ! important; padding: 5px 0px ! important; color: rgb(73, 73, 74) ! important; margin-bottom: 15px ! important; }
+.dod_dollar { position: relative; font-size: 24px ! important; font-weight: bold ! important; margin-right: 3px ! important; }
+.dod_reg { font-family: Arial; font-size: 12px ! important; color: rgb(73, 73, 74) ! important; margin: 0px ! important; }
+.dod_save { font-family: Arial; font-size: 12px ! important; font-weight: bold ! important; color: rgb(187, 6, 40) ! important; margin: 0px ! important; }
+.dod_fs { font-family: Arial; font-size: 14px ! important; font-weight: bold ! important; text-transform: uppercase ! important; color: rgb(73, 73, 74) ! important; padding: 10px 0px ! important; }
+.dod_dis { font-family: Arial; font-size: 11px ! important; color: rgb(73, 73, 74) ! important; padding: 5px 0px ! important; }
+.bd_title {  }
+.bd_red { font-family: Arial ! important; font-size: 27px ! important; font-weight: bold ! important; color: rgb(187, 6, 40) ! important; }
+.bd_gray { font-family: Arial ! important; font-size: 27px ! important; color: rgb(73, 73, 74) ! important; }
+.lp_hover { cursor: pointer; }
+.lp_hover_box { position: absolute; width: 250px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(195, 196, 196); display: none; top: 0px; left: -260px; }
+.lp_hover_box p { font-family: Arial; font-size: 11px; padding: 10px; }

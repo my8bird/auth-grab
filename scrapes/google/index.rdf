@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:MAF="http://maf.mozdev.org/metadata/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:root">
+    <MAF:originalurl RDF:resource="https://accounts.google.com/ServiceLogin?service=lso&amp;passive=1209600&amp;continue=https://accounts.google.com/o/openid2/auth?zt%3DChRlY2dNcTZNU2NTQlk5VVppcTRKMxIfb2hVYU9CRnNaZEFhdUpKVm5MNDlDYzlJQm9sWWRBSQ%25E2%2588%2599APsBz4gAAAAAUG2l_nxCQ4CMAr3JKucRU-48eJF3vm1m%26from_login%3D1%26hl%3Den%26as%3D14d9a2032093d07f&amp;shdf=CiULEgZkb21haW4aGUxvZ2luLmdldHNhdGlzZmFjdGlvbi5jb20MEgNsc28iFDUXSXCY70pN1XV2uuTeUXgmREOOKAEyFIhyjO4Cy1y0V4IefLJEuJDKAYJ-&amp;scc=1"/>
+    <MAF:title RDF:resource="Google Accounts"/>
+    <MAF:archivetime RDF:resource="Thu, 04 Oct 2012 09:51:50 -0500"/>
+    <MAF:indexfilename RDF:resource="index.html"/>
+    <MAF:charset RDF:resource="UTF-8"/>
+  </RDF:Description>
+</RDF:RDF>

@@ -1,0 +1,36 @@
+/* Effective stylesheet produced by snapshot save */
+#tabbedbox > .google-ads-wrapper { width: 758px; }
+.google-ads-wrapper h3, .gAdUnit .adTitle h3 { float: left; font-size: 11px; font-weight: bold; margin: 0px; padding: 10px 0px 0px 10px; }
+.google-ads-wrapper h3 a { text-decoration: none; }
+.gAdUnit > h4 { padding-left: 4px; }
+.google-ads-wrapper h4, .gAdUnit .adTitle h4 { float: left; font-size: 11px; font-weight: normal; margin: 0px; padding: 10px 10px 0px 7px; }
+.google-ads-wrapper h4 a:hover { text-decoration: none; }
+.google-ads-wrapper { padding: 0px ! important; clear: left; float: left; width: auto; }
+.google-ads-wrapper, .gAdUnit { border: 1px solid rgb(195, 196, 196); margin-bottom: 10px; }
+.gAdUnit { clear: both; }
+#gAdUnitWide.gAdUnitHidden, #gAdUnitNarrow.gAdUnitHidden { height: 0px; overflow: hidden; margin: 0px; padding: 0px; border: medium none; }
+.google-ads-wrapper .clear { border: 0px none; clear: both; display: block; float: none; font-size: 0px; height: 0px; margin: 0px; overflow: hidden; visibility: hidden; width: 0px; }
+#google-ads { margin: 0px; padding: 0px 0px 10px; width: 100%; overflow: hidden; float: left; background: none repeat scroll 0% 0% rgb(255, 255, 255); clear: both; }
+#google-ads-narrow { margin: 0px; padding: 0px 0px 10px; width: 100%; overflow: hidden; float: left; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.google-ad { margin: 15px 0px 0px; position: relative; left: 10px; width: 560px; float: left; overflow: hidden; }
+.google-narrow { margin: 15px 0px 0px; position: relative; left: 10px; width: 150px; float: left; overflow: hidden; }
+.google-ad-title { font-size: 12px; font-weight: 700; text-decoration: none; line-height: 16px; }
+.sl-table a, sl-table-ol a { color: rgb(8, 94, 185) ! important; }
+.google-ad-text { font-size: 11px; text-decoration: none; line-height: 14px; }
+.google-ad-url { font-size: 11px; text-decoration: none; line-height: 14px; }
+.google-ad_box { font-size: 14px; padding: 10px; }
+#leftcol .google-ads-wrapper { margin-bottom: 20px; }
+#rightcol .google-ads-wrapper { margin-top: 10px; }
+#gAdUnitWide { border: 1px solid rgb(195, 196, 196); padding: 10px; clear: both; }
+#gAdUnitNarrow { border: 1px solid rgb(195, 196, 196); }
+#gAdUnitWideAds { overflow: hidden; }
+.gAds { clear: both; }
+#gAdUnitNarrow .adTitle { margin: 0px; padding: 0px; font-weight: normal; background-color: rgb(34, 61, 98); width: 180px; }
+#gAdUnitNarrow .adTitle h2 { float: left; margin: 0px; padding: 8px 5px 8px 10px; background-color: rgb(34, 61, 98); border-bottom: 0px none; }
+#gAdUnitNarrow .adTitle h4 { float: left; margin: 5px 0px 0px; padding: 0px; background-color: rgb(34, 61, 98); font-weight: normal; }
+#gAdUnitNarrow .adTitle h4 a { color: white; }
+#gAdUnitNarrowAds { margin: 10px; }
+#gAdUnitWide .adTitle h3 { float: left; }
+#gAdUnitWide .adTitle h4 { float: left; padding-left: 10px; padding-bottom: 10px; font-weight: normal; }
+.titleLink { color: rgb(68, 129, 254) ! important; }
+.domainLink { color: rgb(8, 94, 185) ! important; }

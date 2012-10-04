@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:MAF="http://maf.mozdev.org/metadata/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:root">
+    <MAF:originalurl RDF:resource="http://www.bestbuy.com/site/Misc/Deal-of-the-Day/pcmcat248000050016.c?id=pcmcat248000050016"/>
+    <MAF:title RDF:resource="Deal of the Day"/>
+    <MAF:archivetime RDF:resource="Thu, 04 Oct 2012 09:48:23 -0500"/>
+    <MAF:indexfilename RDF:resource="index.html"/>
+    <MAF:charset RDF:resource="ISO-8859-1"/>
+  </RDF:Description>
+</RDF:RDF>

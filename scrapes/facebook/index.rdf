@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:MAF="http://maf.mozdev.org/metadata/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:root">
+    <MAF:originalurl RDF:resource="https://www.facebook.com/login.php?api_key=189818072392&amp;skip_api_login=1&amp;display=page&amp;cancel_url=http%3A%2F%2Fwww.livejournal.com%2Fidentity%2Fcallback-facebook.bml%3Fforwhat%3Dlogin%26error_reason%3Duser_denied%26error%3Daccess_denied%26error_description%3DThe%2Buser%2Bdenied%2Byour%2Brequest.&amp;fbconnect=1&amp;next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fpermissions.request%3F_path%3Dpermissions.request%26app_id%3D189818072392%26redirect_uri%3Dhttp%253A%252F%252Fwww.livejournal.com%252Fidentity%252Fcallback-facebook.bml%253Fforwhat%253Dlogin%26display%3Dpage%26response_type%3Dcode%26perms%3Dpublish_stream%252Coffline_access%252Cemail%252Cuser_about_me%252Cuser_birthday%252Cuser_hometown%252Cuser_interests%252Cuser_website%26fbconnect%3D1%26from_login%3D1%26client_id%3D189818072392&amp;rcount=1"/>
+    <MAF:title RDF:resource="Log In | Facebook"/>
+    <MAF:archivetime RDF:resource="Thu, 04 Oct 2012 09:47:45 -0500"/>
+    <MAF:indexfilename RDF:resource="index.html"/>
+    <MAF:charset RDF:resource="UTF-8"/>
+  </RDF:Description>
+</RDF:RDF>
